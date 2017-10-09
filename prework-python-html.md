@@ -9,7 +9,7 @@ What you write is not as important as generally exercising your skills in thinki
 
 ### CodeCademy
 
-To get you going down this path, you will go through the tutorial at [CodeCademy](https://www.codecademy.com/learn/python) and complete the following units:
+To get you going down this path, you will go through the tutorial at [CodeCademy](https://www.codecademy.com/learn/learn-python) and complete the following units:
 
 - Unit 1: Python Syntax
 - Unit 2: Strings and Console Output
@@ -22,15 +22,10 @@ To get you going down this path, you will go through the tutorial at [CodeCademy
 
 This should take between 5 and 10 hours total. 
 
-### Coding Bat
+### Udacity
 
-Once finished with CodeCademy's work, visit [Coding Bat](http://codingbat.com/python).
-Sign up for an account, setting the Teacher Share email address as sea-python@codefellows.com.
-There will be several modules for you to practice.
-You can do as many as you like, however the following are necessary:
+Create an account with Udacity.com and work through the entire [Introduction to Python course](https://classroom.udacity.com/courses/ud1110).
 
-- all of the String-2 module 
-- all of the List-2 module
   
 ## More on Web Dev
 
