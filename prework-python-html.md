@@ -66,5 +66,4 @@ Copy the URL for the pull request and submit that URL to Canvas for the Prework 
 After you do this, merge your work to your `master` branch.
 
 Use the comments function in Canvas to submit questions, comments, and reflections on this work.
-We will get the results from your Coding Bat work automatically, so don't worry about that.
 Because this is not an HTML/CSS/JS course, those assignments will not be graded in any detail.
