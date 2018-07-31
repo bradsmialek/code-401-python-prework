@@ -4,7 +4,7 @@
 
 During the 401 Python course to come you will be writing more Python than you can possibly imagine. To help ease yourself into the experience it is important that you start limbering up your Python muscles. Be sure to spend at least *two hours each day* writing Python code.  What you write is not as important as generally exercising your skills in thinking in Python.
 
-### CodeCademy
+### REPL.it
 
 To get you going down this path, you will go through the tutorial at [REPL.it](https://repl.it/community/classrooms/17929){:target="_blank"} and complete all of the assignments, some of which should be fairly quick. This should take between 10-15 hours total.
 
