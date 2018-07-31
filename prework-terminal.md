@@ -7,7 +7,7 @@ Although this course is primarily focused on Python, because the work being done
 The assignment in this Pre-work will introduce you to some of the more common commands involved in traversing directories and manipulating files on your computer.
 
 ## Submitting Your Work
-There will be an associated Canvas assignment available for you to submit your completed work. For each of the following segments of [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/) on ryanstutorials.net, you will completely read through and complete each of the activities in your own terminal. As you complete each segment's activities, take a moment to document your learnings and observations. 
+There will be an associated Canvas assignment available for you to submit your completed work. For each of the following segments of [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/){:target="_blank"} on ryanstutorials.net, you will completely read through and complete each of the activities in your own terminal. As you complete each segment's activities, take a moment to document your learnings and observations.
 
 1. The Command Line
 1. Basic Navigation
@@ -24,5 +24,5 @@ There will be an associated Canvas assignment available for you to submit your c
 1. Scripting
 1. Cheat Sheet
 
-To submit your work in Canvas, copy the above list and paste each of your meaningful observations and learnings below each section as a way to illustrate and highlight things like 'ah hah' moments or really interesting code snippets. 
-    - _Please note: If you submit one-liners (i.e. "The permissions section talked about permissions. It was cool.")_ you will not receive credit for this assignment. 
+To submit your work in Canvas, copy the above list and paste each of your meaningful observations and learnings below each section as a way to illustrate and highlight things like 'ah hah' moments or really interesting code snippets.
+    - _Please note: If you submit one-liners (i.e. "The permissions section talked about permissions. It was cool.")_ you will not receive credit for this assignment.

@@ -6,7 +6,7 @@ During the 401 Python course to come you will be writing more Python than you ca
 
 ### CodeCademy
 
-To get you going down this path, you will go through the tutorial at [REPL.it](https://repl.it/community/classrooms/17929) and complete all of the assignments, some of which should be fairly quick. This should take between 10-15 hours total. 
+To get you going down this path, you will go through the tutorial at [REPL.it](https://repl.it/community/classrooms/17929){:target="_blank"} and complete all of the assignments, some of which should be fairly quick. This should take between 10-15 hours total.
 
 ## More on Web Dev
 
@@ -16,11 +16,11 @@ Spend the time between now and the start of class sharpening your HTML/CSS/JS sk
 
 ### Refresh HTML/CSS/JS
 
-If you are a complete beginner, then may I suggest an account with either [Treehouse](http://teamtreehouse.com/) or [CodeAcademy](http://codeacademy.com/).
+If you are a complete beginner, then may I suggest an account with either [Treehouse](http://teamtreehouse.com/){:target="_blank"} or [CodeAcademy](http://codeacademy.com/){:target="_blank"}.
 
 Once you are signed up, either site has a number of quality tutorials that cover HTML, CSS, and Javascript.  Pick some, and work through them. Then pick the next in line and keep going. Spend at least an hour a day working on this.
 
-Another great resource for all of the above is [FreeCodeCamp](http://www.freecodecamp.com). Once you sign up for an account there, you should be able to work your way all the way through the Advanced Algorithm Scripting section of work. It does take time though, so pace yourself over several days/weeks.
+Another great resource for all of the above is [FreeCodeCamp](http://www.freecodecamp.com){:target="_blank"}. Once you sign up for an account there, you should be able to work your way all the way through the Advanced Algorithm Scripting section of work. It does take time though, so pace yourself over several days/weeks.
 
 
 ## Submitting Your Work
