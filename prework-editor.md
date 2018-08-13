@@ -11,6 +11,7 @@ During the 401 Python course to come you will be writing more Python than you ca
   - This package will dictate code style based on a `.editorconfig` file which we will review during our first day of class.
 
 Please read (participate at your discretion) the following tutorial: [VS Code Python Tutorial](https://code.visualstudio.com/docs/python/python-tutorial){:target="_blank"}.
+  - _IMPORTANT NOTE: Do not install Anaconda. Just skip those references, and follow the OS-based installations for this tutorial._
 
 ## Submitting Your Work
 
