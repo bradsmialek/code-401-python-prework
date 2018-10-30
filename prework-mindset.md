@@ -17,8 +17,7 @@ We could all use mindset reminders.
 - Listen to [The Drs. Sarah on Impostor Syndrome - Pt 2](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-the-impostor-syndrome-part-ii){:target="_blank"} (25.5 minutes)
 
 ## Submitting Your Work
-- There will be a discussion assignment on Canvas focusing on mindsets.
-- You are to post in that discussion assignment with your thoughts and feelings about these various media.
+- You are to post in this discussion assignment with your thoughts and feelings about these various media.
 - Each should be addressed, and each time one is addressed you should write **at least** 2-3 sentences about your reaction.
 - Replies to others' comments are not mandatory but appreciated.
 - Keep it civil.

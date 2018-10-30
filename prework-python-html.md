@@ -24,9 +24,8 @@ Another great resource for all of the above is [FreeCodeCamp](http://www.freecod
 
 
 ## Submitting Your Work
+Once you complete the REPL.it assignments in full, save the summary page of the assignments as a PDF document (save it on your Desktop). This should show a summary list of all assignments, which should also show them as `completed`. Submit this PDF as a file in the assignment, so we can review work.
 
-There will be an associated Canvas assignment available for you to submit your completed work. Once you complete the REPL.it assignments in full, print the summary page of the assignments as a PDF document (save it on your Desktop). This should show a summary list of all assignments, which should also show them as `completed`. Submit this PDF as a file in the Canvas assignment, so we can review work.
-
-Use the comments section in Canvas to submit questions, comments, and reflections on this work.
+Use the comments section to submit questions, comments, and reflections on this work.
 
 _Because this is not an HTML/CSS/JS course, those assignments will not be graded in any detail._

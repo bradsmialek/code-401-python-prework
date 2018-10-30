@@ -15,6 +15,6 @@ Please read (participate at your discretion) the following tutorial: [VS Code Py
 
 ## Submitting Your Work
 
-There will be an associated Canvas assignment available for you to submit your completed work. Once you complete the setup in full, submit a comment in the Canvas assignment to confirm that you are set up. If you have any trouble, please reach out to your instructor via Direct Message on Slack.
+Once you complete the setup in full, submit a comment to confirm that you are set up. If you have any trouble, please reach out to your instructor via Direct Message on Slack.
 
 Use the comments section in Canvas to submit questions, comments, and reflections on this work.
