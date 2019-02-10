@@ -10,7 +10,7 @@ Allow yourself more time than you think you will need so that you can take break
 
 ### Operating systems
 - Mac and Linux (preferably Ubuntu) are preferrable. 
-- If you are using a Windows machine, figure out a way to safely partition your computer and boot a good Linux distribution like Ubuntu 14.04 or 16.04
+- If you are using a Windows machine, figure out a way to safely partition your computer and boot a good Linux distribution like Ubuntu 16.04 or 18.04
     - In the event that you are completely unable to install Linux, Windows computers are **absolutely required** to have the latest version of Windows 10
     - It is also **absolutely required** that you have installed Ubuntu Bash as a shell replacement for Windows. For more information on this please refer to [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup) on how to set up the Bash shell on Windows
 
