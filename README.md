@@ -19,7 +19,7 @@ Allow yourself more time than you think you will need so that you can take break
     - [Download Slack](https://slack.com/downloads)
 2. Verify that you have Homebrew installed on your computer (if you have a Mac). If you're on Linux, you'll do similar stuff with `apt-get`. **Ensure that you have root access on your Linux machine.**
     - [Download and Install Homebrew](https://brew.sh/)
-3. Verify that you have Python versions 2.7 and 3.6 (or greater) installed on your computer. 
+3. Verify that you have Python versions 2.7 and 3.7 (or greater) installed on your computer. 
     - To check if you have Python at all, type `which python`. If you have it, your terminal will return something like `/usr/local/bin/python`.
     - To check which version(s) of Python you have, type `python --version` and `python3 --version`.
     - If python 3 not installed then run `brew install python` (or equivalent on linux)
